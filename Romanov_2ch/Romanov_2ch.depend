@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1620733275 source:o:\uchebki2020\praktika_8var_2chast\romanov_2ch\main.cpp
+	<iostream>
+	<locale.h>
+	"plant.h"
+	<cmath>
+	<iomanip>
+	<windows.h>
+
+1487011920 o:\uchebki2020\praktika_8var_2chast\romanov_2ch\plant.h
+
+1487012148 source:o:\uchebki2020\praktika_8var_2chast\romanov_2ch\plant.c
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"plant.h"
+
+1620733275 source:c:\users\Кирилл\desktop\romanov_2ch\main.cpp
+	<iostream>
+	<locale.h>
+	"plant.h"
+	<cmath>
+	<iomanip>
+	<windows.h>
+
+1487011920 c:\users\Кирилл\desktop\romanov_2ch\plant.h
+
+1487012148 source:c:\users\Кирилл\desktop\romanov_2ch\plant.c
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"plant.h"
+

@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1487012148 source:z:\uchebki2020\praktika_8var_1chast\plant.c
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"plant.h"
+
+1487011920 z:\uchebki2020\praktika_8var_1chast\plant.h
+
+1590158734 source:z:\uchebki2020\praktika_8var_1chast\main.cpp
+	<iostream>
+	<locale.h>
+	"plant.h"
+	<cmath>
+	<iomanip>
+	<windows.h>
+
+1590158734 source:o:\uchebki2020\praktika_8var_1chast\main.cpp
+	<iostream>
+	<locale.h>
+	"plant.h"
+	<cmath>
+	<iomanip>
+	<windows.h>
+
+1487011920 o:\uchebki2020\praktika_8var_1chast\plant.h
+
+1487012148 source:o:\uchebki2020\praktika_8var_1chast\plant.c
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"plant.h"
+
+1590158734 source:c:\users\Кирилл\desktop\praktika_8var_1chast\main.cpp
+	<iostream>
+	<locale.h>
+	"plant.h"
+	<cmath>
+	<iomanip>
+	<windows.h>
+
+1487011920 c:\users\Кирилл\desktop\praktika_8var_1chast\plant.h
+
+1487012148 source:c:\users\Кирилл\desktop\praktika_8var_1chast\plant.c
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"plant.h"
+
+1590158734 source:c:\users\Кирилл\desktop\Проф практ\main.cpp
+	<iostream>
+	<locale.h>
+	"plant.h"
+	<cmath>
+	<iomanip>
+	<windows.h>
+
+1487011920 c:\users\Кирилл\desktop\Проф практ\plant.h
+
+1487012148 source:c:\users\Кирилл\desktop\Проф практ\plant.c
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"plant.h"
+
